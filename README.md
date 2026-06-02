@@ -4,7 +4,7 @@ Geliştiriciler için masaüstü `.env` dosya yöneticisi. **Electron + React + 
 
 ---
 
-![EnvMan Ekran Görüntüsü](./assets/screenshot.png)
+![EnvMan Ekran Görüntüsü](./screenshot.png)
 
 ---
 
